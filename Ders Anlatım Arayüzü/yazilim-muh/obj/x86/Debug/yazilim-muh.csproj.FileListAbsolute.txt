@@ -1,0 +1,17 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\bin\Debug\yazilim-muh.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\bin\Debug\yazilim-muh.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.frm_ana_sayfa.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.frm_admin_paneli.resources
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.exe
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.pdb
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\bin\Debug\yazilim-muh.exe
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\bin\Debug\yazilim-muh.pdb
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.frm_ana_sayfa.resources
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.frm_admin_paneli.resources
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim_muh.Properties.Resources.resources
+C:\Users\Fatih\Desktop\yazilim-muh\yazilim-muh\yazilim-muh\obj\x86\Debug\yazilim-muh.csproj.GenerateResource.Cache
