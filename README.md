@@ -1,0 +1,2 @@
+# OtomasyonProjeleri
+Otomasyon Projelerim
