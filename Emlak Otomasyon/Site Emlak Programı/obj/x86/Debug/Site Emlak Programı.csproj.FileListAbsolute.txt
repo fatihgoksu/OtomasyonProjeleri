@@ -1,0 +1,30 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\bin\Debug\Site Emlak Programı.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form2.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form3.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Site Emlak Programı\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form4.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.exe
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.pdb
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\bin\Debug\Site Emlak Programı.pdb
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form1.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form2.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form3.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Form4.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site_Emlak_Programı.Properties.Resources.resources
+C:\Users\Fatih\Downloads\Site Emlak Programı sürüm4\Site Emlak Programı\obj\x86\Debug\Site Emlak Programı.csproj.GenerateResource.Cache
